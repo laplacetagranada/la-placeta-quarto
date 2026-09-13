@@ -187,9 +187,10 @@ details.prog-details[open] summary.btn{background:var(--ochre);}
   .programmes-layout{grid-template-columns:1fr;}
   .side-nav{position:static;border-left:none;border-top:2px solid var(--sand);padding-left:0;padding-top:16px;display:flex;gap:20px;flex-wrap:wrap;}
   .details-grid{grid-template-columns:1fr;}
-  .block{grid-template-columns:1fr;gap:28px;}
+  .block, .block.wide-text, .block.wide-text.reverse{grid-template-columns:1fr;gap:28px;}
   .block.reverse .block-image{order:1;}
   .block.reverse .block-text{order:2;}
+  .block-image.tall{max-width:100%;}
   .principles{grid-template-columns:1fr;}
   .orgs-grid{grid-template-columns:repeat(2,1fr);}
   .contact-hero h1{font-size:24px;}
