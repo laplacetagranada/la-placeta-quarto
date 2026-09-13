@@ -1,0 +1,60 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "La Placeta Granada"
+  site-url: "https://laplacetagranada.com"
+  image: images/brand/logo.png
+  navbar:
+    logo: images/brand/logo.png
+    logo-alt: "La Placeta Granada"
+    title: false
+    pinned: true
+    left:
+      - text: "Home"
+        href: index.qmd
+      - text: "About us"
+        href: about-us.qmd
+      - text: "Programmes"
+        href: programmes.qmd
+      - text: "Giving Back"
+        href: giving-back.qmd
+      - text: "Contact"
+        href: contact.qmd
+    right:
+      - icon: instagram
+        href: "https://instagram.com/laplacetagranada"
+        aria-label: Instagram
+      - icon: facebook
+        href: "https://www.facebook.com/share/19Ra23UsVJ/"
+        aria-label: Facebook
+      - icon: linkedin
+        href: "https://www.linkedin.com/company/la-placeta-granada/"
+        aria-label: LinkedIn
+
+  page-footer:
+    background: light
+    left: |
+      ![](images/brand/logo.png){height=48px}\
+      Cultural and language immersion programmes in Granada, for the curious over 50.
+    center: |
+      **Sitemap**\
+      [Home](index.qmd) · [About us](about-us.qmd) · [Programmes](programmes.qmd) · [Giving Back](giving-back.qmd) · [Contact](contact.qmd)
+    right: |
+      **Contact**\
+      [info@laplacetagranada.com](mailto:info@laplacetagranada.com)\
+      Granada, Spain
+
+  page-navigation: false
+
+format:
+  html:
+    theme:
+      - cosmo
+      - theme/styles.scss
+    css: theme/custom.css
+    toc: false
+    grid:
+      body-width: 1200px
+    fontsize: 1rem

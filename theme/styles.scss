@@ -1,0 +1,90 @@
+/*-- scss:defaults --*/
+
+// Brand colours
+$olive: #33422A;
+$ochre: #A3863F;
+$sand:  #E8D3A0;
+$cream: #FAF7F0;
+
+$primary: $olive;
+$body-bg: $cream;
+$body-color: $olive;
+$link-color: $olive;
+$link-hover-color: $ochre;
+
+$font-family-sans-serif: Calibri, Arial, sans-serif;
+$font-family-serif: Georgia, 'Times New Roman', serif;
+$headings-font-family: $font-family-serif;
+$headings-font-weight: 400;
+$headings-color: $olive;
+
+$navbar-bg: $cream;
+$navbar-fg: $olive;
+$navbar-hl: $ochre;
+
+$footer-bg: $cream;
+$footer-fg: $olive;
+
+/*-- scss:rules --*/
+
+body{
+  line-height: 1.6;
+}
+
+// Sticky navbar with a soft shadow, like the approved boceto
+// (pinned: true in _quarto.yml keeps it always visible on scroll;
+// this sticky/top rule is kept as a safety net)
+.navbar{
+  border-bottom: 1px solid $sand;
+  position: sticky;
+  top: 0;
+}
+.navbar-brand{
+  display: flex;
+  align-items: center;
+}
+.navbar-brand img,
+.navbar-logo{
+  height: 84px !important;
+  max-height: 84px !important;
+}
+// Tagline shown between the logo and the menu links.
+// Quarto's navbar has no built-in "centre" slot, so this is added
+// as generated text next to the logo, hidden on narrow screens
+// where there isn't room for it.
+.navbar-brand::after{
+  content: "Cultural and language immersion programmes in Granada, for the curious over 50.";
+  margin-left: 22px;
+  font-family: $font-family-sans-serif;
+  font-size: 0.85rem;
+  font-style: italic;
+  color: $ochre;
+  white-space: normal;
+  max-width: 340px;
+  line-height: 1.25;
+}
+@media (max-width: 1400px){
+  .navbar-brand::after{ display: none; }
+}
+.navbar-nav .nav-link{
+  font-size: 1.05rem;
+  letter-spacing: 0.02em;
+}
+.navbar-nav .nav-link.active{
+  color: $ochre !important;
+  border-bottom: 2px solid $ochre;
+}
+
+// Footer
+.nav-footer{
+  border-top: 1px solid $sand;
+  padding-top: 2.5rem;
+  padding-bottom: 2rem;
+  font-size: 1.05rem;
+}
+.nav-footer a{
+  text-decoration: none;
+}
+.nav-footer a:hover{
+  color: $ochre;
+}
