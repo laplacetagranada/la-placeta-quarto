@@ -48,6 +48,11 @@ website:
       [info@laplacetagranada.com](mailto:info@laplacetagranada.com)\
       Granada, Spain
 
+      **Legal**\
+      [Legal notice](/legal-notice.qmd)\
+      [Privacy and Data Protection](/privacy.qmd)\
+      [Cancellation policy](/cancellation-policy.qmd)
+
   page-navigation: false
 
 format:
@@ -58,6 +63,7 @@ format:
     css:
       - theme/custom.css
       - theme/news.css
+      - theme/legal.css
     toc: false
     grid:
       body-width: 1200px

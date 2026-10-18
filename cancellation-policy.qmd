@@ -1,0 +1,26 @@
+---
+title: "Cancellation policy"
+toc: true
+toc-title: "On this page"
+body-classes: legal-page
+---
+
+::: {.news-header}
+# Cancellation policy
+
+Cancellation terms for each of our programmes.
+:::
+
+## Granada: Spanish and Local Life {#sle}
+
+- Participants must confirm their enrolment with La Placeta Granada by **15 February 2027** by signing the enrolment contract and paying 50% of the total programme fee.
+- If a participant cancels, the following cancellation fees will apply:
+
+| Date of cancellation | Cancellation fee |
+|---|---|
+| Before 15 February 2027 | Full refund |
+| 15 February to 28 February 2027 | 25% of the total programme fee |
+| 1 March to 15 March 2027 | 50% of the total programme fee |
+| 16 March 2027 or later | 100% of the total programme fee |
+
+For any questions about cancellations, please contact us at [info@laplacetagranada.com](mailto:info@laplacetagranada.com).

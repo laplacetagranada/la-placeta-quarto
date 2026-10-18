@@ -26,6 +26,7 @@ A slow-paced stay built around real neighbourhood life: daily Spanish classes, g
 
 ::: {.actions}
 [Download full programme (PDF)](/programmes/laplaceta-spa-local-life-programme.pdf){.btn .secondary}
+[Cancellation policy](/cancellation-policy.qmd#sle){.policy-link}
 :::
 
 <details class="prog-details">

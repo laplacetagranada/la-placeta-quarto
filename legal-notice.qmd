@@ -1,0 +1,82 @@
+---
+title: "Legal notice"
+toc: true
+toc-title: "On this page"
+body-classes: legal-page
+---
+
+::: {.news-header}
+# Legal notice
+
+Last updated: October 2026
+:::
+
+## 1. Company Information
+
+In compliance with the information duty established in Article 10 of Spanish Law 34/2002, of 11 July, on Information Society Services and Electronic Commerce, the following details are provided: the owners of this website (hereinafter, the 'Site') are Carolina Castillo Ferrer (NIF: 74662674M) and Patricia Molina Molina (NIF: 75154201E), with registered office at Callejón de Arenas 3, 18005 Granada (Spain).
+
+Further information may be requested by sending an email to the following contact address: [info@laplacetagranada.com](mailto:info@laplacetagranada.com).
+
+## 2. Users
+
+Access to and/or use of the LA PLACETA GRANADA website confers the status of USER, who accepts, from said access and/or use, the General Terms and Conditions of Use set forth herein. These Terms shall apply independently of any General Terms and Conditions of Contracting that may be mandatory, where applicable.
+
+## 3. Use of the Site
+
+The website of LA PLACETA GRANADA provides access to information, services, programmes and data (hereinafter, the 'content') on the Internet owned by LA PLACETA GRANADA, which the USER may access. The USER assumes full responsibility for the use of the Site.
+
+The USER undertakes to make appropriate use of the content and services that LA PLACETA GRANADA offers through its Site and, by way of example but not limitation, agrees not to use them to:
+
+1. Engage in activities that are unlawful, illegal, or contrary to good faith or public order;
+2. Disseminate content or propaganda of a racist, xenophobic or illegal pornographic nature, or that promotes terrorism or violates human rights;
+3. Cause damage to the physical and logical systems of LA PLACETA GRANADA, its suppliers or third parties, or introduce or spread computer viruses or any other physical or logical systems that are likely to cause the aforementioned damage.
+
+## 4. Intellectual and Industrial Property
+
+LA PLACETA GRANADA, either in its own right or as an assignee, holds all intellectual and industrial property rights over its website, as well as over the elements contained therein (including, but not limited to, images, sound, audio, video, software or text; trademarks or logos, colour combinations, structure and design, selection of materials used, and computer programs necessary for their operation, access and use), whether owned by LA PLACETA GRANADA or by its licensors.
+
+All rights reserved. Pursuant to the provisions of Articles 8 and 32.1, second paragraph, of the Spanish Intellectual Property Law, the reproduction, distribution and public communication — including the modality of making available — of all or part of the contents of this website, for commercial purposes, in any format and by any technical means, is expressly prohibited without the prior authorisation of LA PLACETA GRANADA. The USER agrees to respect the Intellectual and Industrial Property rights owned by LA PLACETA GRANADA. The USER may view the elements of the Site and may print, copy and store them on the hard drive of their computer or on any other physical medium, provided that this is solely and exclusively for their personal and private use. The USER must refrain from removing, altering, bypassing or tampering with any protection device or security system that may be installed on the pages of LA PLACETA GRANADA.
+
+## 5. Disclaimer of Warranties and Liability
+
+5.1. LA PLACETA GRANADA shall not, under any circumstances, be held liable for any damage of any nature that may arise, including but not limited to: errors or omissions in the content, unavailability of the website, transmission of viruses or malicious or harmful programs in the content, telephone failures or disconnections in the operation of this electronic system due to causes beyond the control of LA PLACETA GRANADA, delays or blockages in the use of this electronic system caused by deficiencies in telephone lines or overloads on the Internet or other electronic systems, as well as damage that may be caused by third parties through unauthorised intrusions beyond the control of LA PLACETA GRANADA, despite having taken all necessary technological measures to prevent such incidents.
+
+5.2. LA PLACETA GRANADA undertakes to make its best efforts to avoid any errors in the content that may appear on the Site. However, LA PLACETA GRANADA shall not be held liable for any such errors, provided they are not attributable to it.
+
+## 6. Modifications
+
+LA PLACETA GRANADA reserves the right to make any changes it deems appropriate to its Site without prior notice, and may modify, delete or add both the content and services provided through the Site as well as the manner in which they are presented or located within the Site.
+
+## 7. Links
+
+In the event that the Site contains links or hyperlinks to other websites, LA PLACETA GRANADA has no control whatsoever over such external sites or their content. Under no circumstances shall LA PLACETA GRANADA assume any responsibility for the content of any external link belonging to a third-party website, nor shall it guarantee the technical availability, quality, reliability, accuracy, breadth, veracity, validity or constitutionality of any material or information contained in such hyperlinks or external websites. The inclusion of these external links shall not imply any type of association, merger or partnership with the linked entities.
+
+## 8. Protection of Personal Data
+
+8.1. LA PLACETA GRANADA adopts the necessary technical and organisational measures to ensure the protection of personal data and to prevent its alteration, loss, unauthorised processing and/or access, taking into account the state of the art, the nature of the stored data and the risks to which it is exposed, all in accordance with the provisions of Spanish legislation on Personal Data Protection.
+
+8.2. The user may provide LA PLACETA GRANADA with their personal data by email. Such data will be processed in compliance with Regulation (EU) 2016/679 of the European Parliament and of the Council of 27 April 2016 on the protection of natural persons with regard to the processing of personal data and on the free movement of such data (General Data Protection Regulation – GDPR), as well as Organic Law 3/2018, of 5 December, on the Protection of Personal Data and the Guarantee of Digital Rights.
+
+8.3. Likewise, LA PLACETA GRANADA may collect personal data derived from your browsing and/or use of the Site, in accordance with our [Privacy and Data Protection Policy](/privacy.qmd).
+
+8.4. We kindly ask you to read the applicable legal texts carefully, particularly our [Privacy and Data Protection Policy](/privacy.qmd), before providing your personal data.
+
+## 9. Right of Exclusion
+
+LA PLACETA GRANADA reserves the right to deny or withdraw access to its Site and/or the services offered, without prior notice, at its own discretion or at the request of a third party, to any users who fail to comply with these General Terms of Use.
+
+## 10. General Provisions
+
+LA PLACETA GRANADA will pursue any breach of these terms, as well as any improper use of its Site, by exercising all civil and criminal actions available under applicable law.
+
+## 11. Modification of These Terms and Duration
+
+LA PLACETA GRANADA reserves the right to modify these terms and conditions at any time, which shall be duly published in the same manner as presented herein. The validity of the aforementioned conditions shall depend on their display, and they shall remain in force until they are replaced by other duly published conditions.
+
+## 12. Applicable Law and Jurisdiction
+
+In the event of any conflict or dispute regarding the interpretation or application of this Legal Notice, the matter shall be submitted to the courts and tribunals determined by the applicable legislation on matters of competent jurisdiction. In cases involving end consumers, such jurisdiction shall correspond to the place of their habitual residence, in accordance with applicable consumer protection laws.
+
+In cases involving legal entities (businesses), both parties expressly waive any other jurisdiction to which they may be entitled and agree to submit to the Courts and Tribunals of Granada (Spain).
+
+© LA PLACETA GRANADA

@@ -1,0 +1,18 @@
+/* =========================================================
+   LEGAL PAGES (legal notice, privacy, cancellation policy)
+   ========================================================= */
+.legal-page main.content{max-width:820px;font-size:1.02rem;line-height:1.7;}
+.legal-page .news-header{left:0;max-width:none;margin:60px 0 30px;}
+.legal-page .news-header h1{font-size:46px;}
+.legal-page .news-header p{font-size:15px;}
+.legal-page main.content h2{font-family:Georgia,serif;font-size:1.35rem;color:var(--olive);margin-top:2.2rem;padding-top:1rem;border-top:1px solid var(--sand);}
+.legal-page #TOC{font-size:.9rem;}
+.legal-page #TOC .nav-link.active{color:var(--ochre);}
+.legal-page table{width:100%;background:#fff;border:1px solid var(--sand);}
+.legal-page th{background:var(--sand);color:var(--olive);}
+/* footer: Legal block */
+.nav-footer-right p{margin-bottom:.9rem;}
+.legal-page .controller-box{background:#fff;border:1px solid var(--sand);border-left:3px solid var(--ochre);border-radius:4px;padding:16px 20px;margin:0 0 10px;font-size:.95rem;}
+/* Programmes: small link to cancellation policy */
+.actions .policy-link{display:inline-block;margin-left:16px;font-size:.9rem;color:var(--olive);text-decoration:underline;text-underline-offset:3px;}
+.actions .policy-link:hover{color:var(--ochre);}

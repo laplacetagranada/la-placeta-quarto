@@ -1,0 +1,106 @@
+---
+title: "Privacy and Data Protection"
+toc: true
+toc-title: "On this page"
+body-classes: legal-page
+---
+
+::: {.news-header}
+# Privacy and Data Protection
+
+Last updated: October 2026
+:::
+
+::: {.controller-box}
+**Data controllers:** Carolina Castillo Ferrer and Patricia Molina Molina (La Placeta Granada)\
+**Contact:** [info@laplacetagranada.com](mailto:info@laplacetagranada.com)\
+Full details are available in our [Legal notice](/legal-notice.qmd).
+:::
+
+## Information We Collect and Your Rights
+
+In accordance with Regulation (EU) 2016/679 of the European Parliament and of the Council of 27 April 2016 on the protection of natural persons with regard to the processing of personal data and on the free movement of such data (General Data Protection Regulation, GDPR), and Spanish Organic Law 3/2018, of 5 December, on the Protection of Personal Data and the Guarantee of Digital Rights, we inform you that the personal data collected through email will be included in a data file. The purpose of this file is the administration and management of the tasks entrusted to Carolina Castillo Ferrer and Patricia Molina Molina (La Placeta Granada). We may use the data provided to send you information we consider to be of interest to you.
+
+The user, as the data subject, is hereby informed and gives their explicit consent for their data to be incorporated into the following automated data file:
+
+- Clients and Suppliers, and for its subsequent automated processing, with La Placeta Granada being the data controller responsible for the file and its processing. The purpose of this data processing is to manage clients who request the services we provide via the Internet.
+
+In accordance with the provisions of the GDPR, individuals have a set of fundamental rights concerning their personal data. Below, you will find detailed information on how La Placeta Granada handles each of these rights under the GDPR and in relation to your data. At La Placeta Granada, we process data solely for the purpose of delivering our professional services. All our facilities and servers are located within the European Union and fully comply with the GDPR.
+
+We do not transfer your data to third parties for commercial or marketing purposes.
+
+## 1. Right to Information
+
+The General Data Protection Regulation (GDPR) applies to all individuals within the European Union, the European Economic Area (EEA) and the European Free Trade Association (EFTA). You have the right to know what we do with your personal data, why we process it and how you may withdraw your consent at any time. This includes the right to be informed about who we are and how we handle your data.
+
+This privacy policy applies to La Placeta Granada. The persons responsible for managing La Placeta Granada's data are Carolina Castillo Ferrer and Patricia Molina Molina. As a general rule, you may contact them regarding any data-related concerns, as they are responsible for ensuring that your rights under the GDPR are respected.
+
+As a business that works with both other businesses and the general public, there are several legal grounds that require us to collect and process certain personal information. The three primary legal bases under which we do this are:
+
+1. To collect sufficient information to establish a service relationship.
+2. To carry out business transactions and to retain the data necessary to process bookings and deliver the associated services.
+3. We request your consent through various channels: by telephone, when recording your bookings, and by email, where we explicitly ask for your consent before processing any booking.
+
+By law, we are required to retain personal data for as long as any of the three legal grounds above remain applicable. If we do not have your permission to send you emails and we have not processed any bookings from you for a period of six years, we will delete your personal data from our systems. We will also request that our third-party data processors delete this information from their systems.
+
+If at any point you wish to withdraw your consent or lodge a complaint regarding our processing of personal data, you may do so by sending an email to [info@laplacetagranada.com](mailto:info@laplacetagranada.com). We will process your withdrawal of consent or respond to your complaint within a maximum of one month from the date we receive your request.
+
+Where clients pay by card, payment details are transmitted directly to the secure payment gateway provided by Bankinter, S.A., which stores them within its own infrastructure. La Placeta Granada does not have access to or store card details.
+
+In line with our commitment to security and confidentiality, La Placeta Granada is particularly focused on providing our clients with the highest level of data protection. This website is served over a secure HTTPS connection, so that data transmitted between your browser and our site is encrypted.
+
+Acceptance of the processing of your data in the manner described herein is a necessary condition for the provision of our services. The use of our services implies such acceptance, which is always revocable and without retroactive effect. The user is, in all cases, responsible for the accuracy of the data provided. La Placeta Granada reserves the right to exclude from its services any user who has provided false information, without prejudice to any other legal action that may be applicable.
+
+## 2. Right of Access
+
+If you would like to know what personal data we hold about you, verify its accuracy and ensure that it is being processed lawfully, you may request this information by sending an email to [info@laplacetagranada.com](mailto:info@laplacetagranada.com). We will provide you with all the personal data we hold about you in the same format in which your request was submitted.
+
+We will respond within one month from the date we receive your request. If the request is particularly complex or we are dealing with a high volume of requests, we will inform you — within that initial one-month period — that we will be applying the extension permitted in such circumstances.
+
+## 3. Right to Rectification
+
+If you believe that the information we hold about you is inaccurate or incomplete, you may inform us by sending an email to [info@laplacetagranada.com](mailto:info@laplacetagranada.com). Upon receipt of your request, we will correct or update your personal data accordingly.
+
+We will do so within one month from the date of your request. If your request is particularly complex or we are handling a high number of requests at the same time, we will notify you — within that initial one-month period — that we will be applying the extension permitted in such circumstances.
+
+## 4. Right to Erasure
+
+Under certain circumstances, the GDPR grants you the right to request the deletion or modification of any personal data that a company may hold about you. This is also referred to as the 'right to be forgotten'. You may request that we erase the personal information we hold about you if you believe it is no longer necessary for us to retain your data for the purposes for which it was originally collected, if you have unsubscribed or never gave consent for your data to be used for commercial purposes, or if you believe your data has been processed unlawfully. Please note that, in order to fulfil your request, we may no longer be able to provide you with our services. Alternatively, you may choose to wait until we have finished providing services to you, after which we will comply with your request in accordance with applicable law.
+
+To submit your request, please email [info@laplacetagranada.com](mailto:info@laplacetagranada.com).
+
+We will assess your request and take the appropriate action within one month of receiving it. If the request is particularly complex or we are processing a large number of requests at the same time, we will inform you — within that one-month period — that we will apply the extension permitted in such circumstances.
+
+## 5. Right to Withdraw Consent
+
+In accordance with the GDPR, you also have the right — under certain circumstances — to withdraw the consent you previously gave for the processing of your personal data for a specific purpose. You may request the withdrawal of your consent if you believe that the personal information we hold about you is inaccurate, if you object to the processing of your data, or if you wish us to retain the information without processing it, for example in the event that you intend to bring or defend a legal claim.
+
+To submit your request, please email [info@laplacetagranada.com](mailto:info@laplacetagranada.com).
+
+We will evaluate and respond to your request within one month of receipt. If necessary, we will also notify any third parties involved. If your request is particularly complex or we are managing a large number of requests at the same time, we will contact you within that one-month period to let you know that additional time will be required, as permitted under the GDPR.
+
+## 6. Right to Data Portability
+
+You have the right to request a copy of your personal data in a digital format (e.g. a spreadsheet or a text file), either for your own use or to reuse for any other lawful purpose.
+
+To submit your request, please email [info@laplacetagranada.com](mailto:info@laplacetagranada.com).
+
+We will process your request free of charge within one month from the date of receipt. If the request is particularly complex or we are handling a large number of requests at the same time, we will inform you within that one-month period that we will make use of the extension permitted in such circumstances.
+
+## 7. Right to Object
+
+Under certain circumstances, the GDPR grants you the right to object to the processing of your personal data, particularly if the data is inaccurate or if you do not agree with how it is being used. If you object to our processing of your personal data — whether in relation to bookings, service provision or for any other reason — you may inform us of your objection by sending an email to [info@laplacetagranada.com](mailto:info@laplacetagranada.com).
+
+If we accept your objection in writing, and while your request is being reviewed, we will stop processing your data in the manner to which you have objected. We will then restrict the processing of such data free of charge within one month, unless your request is particularly complex or we are handling a high volume of requests, in which case we will notify you within that one-month period that an extension may be required.
+
+You will also be given the opportunity to object to receiving marketing communications from us at the time you make a booking or provide your personal data, as outlined in Section 1: Right to Information.
+
+## 8. Rights Related to Automated Decision-Making and Profiling
+
+We do not carry out any automated decision-making that affects your personal information.
+
+We do not make any decisions involving what the GDPR defines as special categories of personal data, nor do we make decisions based on ethnicity, race, sex, gender or disability.
+
+## 9. Right to Lodge a Complaint
+
+If you consider that your data protection rights have not been properly addressed, you have the right to lodge a complaint with the Spanish Data Protection Agency (Agencia Española de Protección de Datos, [www.aepd.es](https://www.aepd.es)).
