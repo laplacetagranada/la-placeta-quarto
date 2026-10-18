@@ -35,3 +35,19 @@
 .blog-post .post-back{margin:48px 0 80px;border-top:1px solid var(--sand);padding-top:20px;}
 .blog-post .post-back a{color:var(--ochre);text-decoration:none;font-weight:600;}
 .blog-post .navbar a.nav-link[href$="news.html"]{color:var(--ochre) !important;}
+
+/* --- Responsive: on phones and tablets stack the card (image on top) --- */
+@media (max-width: 991.98px){
+  .news-header{left:0;margin:36px 0 6px;}
+  .news-header h1{font-size:40px;}
+  .news-header p{font-size:16px;}
+  .quarto-listing-default{margin:20px 0 50px;}
+  div.quarto-post{flex-direction:column !important;gap:0 !important;}
+  div.quarto-post .thumbnail{order:1 !important;flex:none !important;max-width:100% !important;width:100%;}
+  div.quarto-post .thumbnail img, div.quarto-post .thumbnail-image{width:100%;height:auto;min-height:0 !important;aspect-ratio:3/2;object-fit:cover;margin:0;}
+  div.quarto-post .metadata{order:2 !important;flex:none !important;padding:20px 22px 0 22px !important;}
+  div.quarto-post .body{order:3 !important;flex:none !important;padding:8px 22px 26px;}
+  div.quarto-post .body h3.listing-title{font-size:1.4rem;}
+  .blog-post #title-block-header h1.title{font-size:32px;}
+  .blog-post #title-block-header{margin-top:32px;}
+}
