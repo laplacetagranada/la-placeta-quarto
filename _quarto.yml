@@ -20,6 +20,8 @@ website:
         href: programmes.qmd
       - text: "Giving Back"
         href: giving-back.qmd
+      - text: "News"
+        href: news.qmd
       - text: "Contact"
         href: contact.qmd
     right:
@@ -36,11 +38,11 @@ website:
   page-footer:
     background: light
     left: |
-      ![](images/brand/logo.png){height=48px}\
+      ![](/images/brand/logo.png){height=48px}\
       Cultural and language immersion programmes in Granada, for the curious over 50.
     center: |
       **Sitemap**\
-      [Home](index.qmd) · [About us](about-us.qmd) · [Programmes](programmes.qmd) · [Giving Back](giving-back.qmd) · [Contact](contact.qmd)
+      [Home](/index.qmd) · [About us](/about-us.qmd) · [Programmes](/programmes.qmd) · [Giving Back](/giving-back.qmd) · [News](/news.qmd) · [Contact](/contact.qmd)
     right: |
       **Contact**\
       [info@laplacetagranada.com](mailto:info@laplacetagranada.com)\
@@ -53,7 +55,9 @@ format:
     theme:
       - cosmo
       - theme/styles.scss
-    css: theme/custom.css
+    css:
+      - theme/custom.css
+      - theme/news.css
     toc: false
     grid:
       body-width: 1200px

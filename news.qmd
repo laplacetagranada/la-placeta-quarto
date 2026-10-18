@@ -1,0 +1,17 @@
+---
+title: "News"
+listing:
+  contents: posts
+  sort: "date desc"
+  type: default
+  categories: false
+  feed: true
+  fields: [image, date, title, description, author]
+  image-placeholder: images/brand/logo.png
+---
+
+::: {.news-header}
+# News
+
+Stories, ideas and reflections on slow travel, language and everyday life in Granada.
+:::
