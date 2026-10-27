@@ -11,12 +11,17 @@ title: "Home"
 :::
 
 ::: {.slogan}
+Cultural programmes for curious travellers over 50
+
 Take a seat in Granada
 :::
 :::
 
 ::: {.hero-right}
-In Granada, a "placeta" is a hidden square where neighbours meet to share stories, time and life. Welcome to your placeta.
+In Granada, a "placeta" is a hidden square where neighbours meet to share stories, time and life.
+
+Welcome to your placeta.
+
 :::
 :::
 
